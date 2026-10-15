@@ -1,2 +1,2 @@
 # Cybersecurity-learning
-My cybersecurity learning journey and practical projects
+My cybersecurity learning journey, course notes and practical projects
