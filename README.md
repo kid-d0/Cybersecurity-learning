@@ -3,10 +3,13 @@ Hi I'm a Cybersecurity student building my skills step by step through online co
 
 🎓Courses and Progress
 
--Cisco Networking Academy
+Cisco Networking Academy
 >Course: Introduction to Cybersecurity
 
 -Module 1:Introduction to Cybersecurity
+>Status: Completed✅
+
+-Module 2:Attacks, Concepts and Techniques
 >Status: Completed✅
 
 📚Skills I'm Developing
