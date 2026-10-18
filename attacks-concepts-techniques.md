@@ -7,13 +7,21 @@ Attacks, Concepts and Techniques 📍
 2.Key Areas Covered
 
 >Common types of cyberattacks
+
 >Malware and its effects
+
 >Social engineering attacks
+
 >Phishing attacks
+
 >Denial-of-Service(DoS) attack
+
 >Password attacks
+
 >Network-based attacks
+
 >Basic methods of preventing cyberattacks
+
 
 3.Ker Takeaways
 
@@ -28,13 +36,20 @@ Attacks, Concepts and Techniques 📍
 4.Skills Developed
 
 -Cybersecurity threat awareness
+
 -Basic attack identification
+
 -Understanding common attack methods
+
 -Knowledge of basic security practices 
 
 5.Learning Platform
 
 -Cisco Networking Academy
+
+6.Status
+
+>Completed
 
 
 
