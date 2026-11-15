@@ -16,7 +16,7 @@ This repository documents my learning journey, completed courses, notes, and pra
 #### 1. Introduction to Cybersecurity
 -[Introduction to Cybersecurity](./Cisco-Junior-Cybersecurity-Analyst/Introduction-to-Cybersecurity/introduction-to-cybersecurity.md)
 
--[Attacks, Concepts and Techniques](./Cisco-Junior-Cybersecurity-Analyst/Introduction-to-Cybersecurity/accept-concepts-and-techniques.md)
+-[Attacks, Concepts and Techniques](./Cisco-Junior-Cybersecurity-Analyst/Introduction-to-Cybersecurity/attacks-concepts-and-techniques.md)
 
 -[Protecting Data and Privacy](./Cisco-Junior-Cybersecurity-Analyst/Introduction-to-Cybersecurity/protecting-data-and-privacy.md)
 
