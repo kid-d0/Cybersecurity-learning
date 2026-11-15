@@ -14,7 +14,7 @@ This repository documents my learning journey, completed courses, notes, and pra
 **Courses and Completed Topics:**
 
 #### 1. Introduction to Cybersecurity
--[Introduction to Cybersecurity](Introduction-to-Cybersecurity/introduction-to-cybersecurity.md)
+-[Introduction to Cybersecurity](./Cisco-Junior-Cybersecurity-Analyst/introduction-to-cybersecurity.md)
 
 -[Attacks, Concepts and Techniques](Introduction-to-Cybersecurity/accept-concepts-and-techniques.md)
 
