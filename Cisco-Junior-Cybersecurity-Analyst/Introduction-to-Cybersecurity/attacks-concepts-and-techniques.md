@@ -6,7 +6,7 @@ Attacks, Concepts and Techniques 📍
 
 2.Key Areas Covered
 
->Common types of cyberattacks
+-Common types of cyberattacks
 
 >Malware and its effects
 
