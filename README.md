@@ -1,16 +1,47 @@
 # My Cybersecurity Learning Journey
 Hi I'm a Cybersecurity student building my skills step by step through online courses and practical learning
 
-🎓Courses and Progress
+This repository documents my learning journey, completed courses, notes, and practical projects
 
-Cisco Networking Academy
->Course: Introduction to Cybersecurity
+🎓Learning Platforms
 
--Module 1:Introduction to Cybersecurity
->Status: Completed✅
+### 1.Cisco Networking Academy
 
--Module 2:Attacks, Concepts and Techniques
->Status: Completed✅
+**Learning Path:** Junior Cybersecurity Analyst
+
+**Progress:** In Progress
+
+**Courses and Completed Topics:**
+
+#### 1. Introduction to Cybersecurity
+-[Introduction to Cybersecurity](Introduction-to-Cybersecurity/introduction-to-cybersecurity.md)
+
+-[Attacks, Concepts and Techniques](Introduction-to-Cybersecurity/accept-concepts-and-techniques.md)
+
+-[Protecting Data and Privacy](Introduction-to-Cybersecurity/protecting-data-and-privacy.md)
+
+#### Other Courses in the Learning Path
+- Network Basics
+- Networking Devices and Initial Configuration
+- Endpoint Security
+- Network Defence
+- Cyber Threat Management
+
+### 2. Hack The Box (HTB)
+
+**Learning Path:** Junior Cybersecurity Analyst
+
+**Progress:** In Progress
+
+**Courses and Completed Topics:**
+
+#### 1. Introduction to Information Security
+
+### 3. Exercism
+
+**Programming Language:** Python
+
+**Progress:** Learning Python Fundamentals
 
 📚Skills I'm Developing
 - Cybersecurity fundamentals
@@ -18,6 +49,11 @@ Cisco Networking Academy
 - Network basics
 - Network security
 - Linux fundamentals
+- Python Fundamentals
+
+⚒️Projects and Practical Labs
+
+I will document practical exercises, labs, and projects once I do them
 
 🎯My Goals
   - Complete my cybersecurity courses
@@ -26,6 +62,7 @@ Cisco Networking Academy
   - Develop the skills needed for an entry-level cybersecurity role
     
   📈Learning One Step at a Time
-    This repository documents my progress, notes, and practical projects as I continue learning cybersecurity
+  
+  This repository documents my progress, notes, and practical projects as I continue learning cybersecurity
 
     My journey is just beginning🚀
